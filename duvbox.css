@@ -92,13 +92,6 @@ section > div[class*="container"] > [class*='nameTag-'] {
     display:none;
 }
 
-/* Center buttons in the panels container */
-div[class*="sidebar"] > [class*='panels-'] [class*='container-']{
-    display:flex;
-    flex-flow:row wrap;
-    justify-content: center;
-}
-
 /* Credit to craftxbox */
 
 /* Mentions (channel, user) */
